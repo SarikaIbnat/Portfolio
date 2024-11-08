@@ -3,9 +3,10 @@
 <head>
     <title>Unit Journals</title>
 <style>
-body {background-color: powderblue;}
+body {background-color: blue;}
 h1   {color: pink;}
 p    {color: red;}
+nav  {color: red;}
 </style>
 </head>
 <body>
