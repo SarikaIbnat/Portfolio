@@ -5,8 +5,17 @@
 </head>
 <body>
     <h1>Unit journals</h1>
-    
-    <a href="unit1">Unit 1</a>
-    
+    <br>
+    <a href="unit1.pdf">Unit 1</a>
+<p>In Unit 1 we learned that computer science involves studying hardware, software, and programming concepts like Python, where you learn to write simple programs, handle input and output, work with data types and variables, and understand core principles like analog vs. digital systems and binary representation.</p>
+<br>
+<a href="unit2.pdf">Unit 2</a>
+<p>In Unit 2 we explored explores the history of computers, performing basic and modular calculations, using built-in functions, generating random numbers, understanding big data, and analyzing real-world data sets.</p>
+<br>
+<a href="unit3.pdf">Unit 3</a>
+<p>In unit 3 we learned functions in programming involve using simple if statements, logical operators, and conditional structures like if-else and else-if, while also defining and solving algorithms through challenges.</p>
+<br>
+<a href="unit4.pdf">Unit 4</a>
+<p>In Unit 4 we learned to create loops that repeat the code using while loops and for in range loops. We did many check for understandings. We found python tutor as a source that shows us how the code is read by the computer and runs from top to bottom.</p>
 </body>
 </html>
